@@ -1,0 +1,1 @@
+# qruzpay-landing-page
